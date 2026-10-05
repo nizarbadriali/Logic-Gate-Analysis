@@ -181,9 +181,7 @@ Named port connections are generally preferred in real projects because they don
 ├── src/
 │   └── lab_1_schematic.v        # Design: AND → NOR → NOT
 ├── sim/
-│   └── Lab1_SourceFile.v        # Testbench (exhaustive, 8 cases)
-├── constraints/
-│   └── basys3.xdc               # Pin mapping for switches and LD0
+│   └── _SourceFileCode.v        # Testbench (exhaustive, 8 cases)
 ├── docs/
 │   ├── simulation_waveform.png
 │   ├── elaborated_schematic.png
