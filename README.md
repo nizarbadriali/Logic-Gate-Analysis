@@ -1,5 +1,5 @@
 # Logic-Gate-Analysis
-A lab done in Vivado showing verilog design of logic gates. Applications of AND OR NOT, as well as the universal gates, NAND and NOR are used in order to analyze truth tables and simulate them digitally. 
+Structural Verilog design (AND → NOR → NOT) verified with an exhaustive testbench, synthesized in Vivado, and programmed on a Basys 3 FPGA. 
 
 # 3-Input Combinational Logic in Verilog: AND → NOR → NOT on a Basys 3 FPGA
 
