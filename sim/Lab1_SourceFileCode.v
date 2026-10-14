@@ -14,7 +14,7 @@ module sample_testbench();
         #10 in1 = 1; in2 = 0; in3 = 1;
         #10 in1 = 1; in2 = 1; in3 = 0;
         #10 in1 = 1; in2 = 1; in3 = 1;
-        #10 $finish;
+       
     end
 
 endmodule
